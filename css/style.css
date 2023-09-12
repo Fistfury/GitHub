@@ -1,3 +1,12 @@
 header {
     background-color: beige;
+    border: 2px solid black;
+}
+section {
+    background-color: black;
+    border: 2px solid black;
+}
+footer {
+    background-color: aqua;
+    border: 2px solid black;
 }
